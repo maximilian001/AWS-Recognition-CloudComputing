@@ -1,0 +1,11 @@
+C:\Users\max.dick\Documents\__FST-APP\AWS-Recognition-APP\AWS-Recognition-CloudComputing\AWS-Recognition-APP\AWS-Recognition-APP\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWS-Recognition-APP.deps.json
+C:\Users\max.dick\Documents\__FST-APP\AWS-Recognition-APP\AWS-Recognition-CloudComputing\AWS-Recognition-APP\AWS-Recognition-APP\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWS-Recognition-APP.runtimeconfig.json
+C:\Users\max.dick\Documents\__FST-APP\AWS-Recognition-APP\AWS-Recognition-CloudComputing\AWS-Recognition-APP\AWS-Recognition-APP\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWS-Recognition-APP.runtimeconfig.dev.json
+C:\Users\max.dick\Documents\__FST-APP\AWS-Recognition-APP\AWS-Recognition-CloudComputing\AWS-Recognition-APP\AWS-Recognition-APP\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWS-Recognition-APP.dll
+C:\Users\max.dick\Documents\__FST-APP\AWS-Recognition-APP\AWS-Recognition-CloudComputing\AWS-Recognition-APP\AWS-Recognition-APP\bin\Release\netcoreapp2.1\rhel.7.2-x64\AWS-Recognition-APP.pdb
+C:\Users\max.dick\Documents\__FST-APP\AWS-Recognition-APP\AWS-Recognition-CloudComputing\AWS-Recognition-APP\AWS-Recognition-APP\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWS-Recognition-APP.csprojAssemblyReference.cache
+C:\Users\max.dick\Documents\__FST-APP\AWS-Recognition-APP\AWS-Recognition-CloudComputing\AWS-Recognition-APP\AWS-Recognition-APP\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWS-Recognition-APP.csproj.CoreCompileInputs.cache
+C:\Users\max.dick\Documents\__FST-APP\AWS-Recognition-APP\AWS-Recognition-CloudComputing\AWS-Recognition-APP\AWS-Recognition-APP\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWS-Recognition-APP.AssemblyInfoInputs.cache
+C:\Users\max.dick\Documents\__FST-APP\AWS-Recognition-APP\AWS-Recognition-CloudComputing\AWS-Recognition-APP\AWS-Recognition-APP\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWS-Recognition-APP.AssemblyInfo.cs
+C:\Users\max.dick\Documents\__FST-APP\AWS-Recognition-APP\AWS-Recognition-CloudComputing\AWS-Recognition-APP\AWS-Recognition-APP\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWS-Recognition-APP.dll
+C:\Users\max.dick\Documents\__FST-APP\AWS-Recognition-APP\AWS-Recognition-CloudComputing\AWS-Recognition-APP\AWS-Recognition-APP\obj\Release\netcoreapp2.1\rhel.7.2-x64\AWS-Recognition-APP.pdb
